@@ -12,5 +12,5 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaunChrissy&show_icons=true&count_private=true&hide=issues&theme=transparent&hide_border=true"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunChrissy&hide=shell&layout=compact&theme=transparent&hide_border=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaunChrissy&theme=transparent&hide_border=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shaun2177&theme=transparent&hide_border=true"/>
 </p>
