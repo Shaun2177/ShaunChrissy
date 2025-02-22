@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Shaun Chrissy</h1>
+<h1 align="center">👋 Hey, I'm Shaun2177</h1>
 <h2 align="center">🛠️ Tools I work with:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -13,7 +13,7 @@
 </p>
 <h2 align="center">📊 Stats</h2>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaunChrissy&show_icons=true&count_private=true&hide=issues&theme=transparent&hide_border=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunChrissy&hide=shell&layout=compact&theme=transparent&hide_border=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaun2177&show_icons=true&count_private=true&hide=issues&theme=transparent&hide_border=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun2177&hide=shell&layout=compact&theme=transparent&hide_border=true"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shaun2177&theme=transparent&hide_border=true"/>
 </p>
